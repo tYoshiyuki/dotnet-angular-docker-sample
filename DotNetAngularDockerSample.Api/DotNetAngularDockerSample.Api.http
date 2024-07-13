@@ -1,0 +1,6 @@
+@DotNetAngularDockerSample.Api_HostAddress = http://localhost:5053
+
+GET {{DotNetAngularDockerSample.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
